@@ -1,0 +1,19 @@
+# Binários e objetos gerados pela compilação
+build/*
+!build/.gitkeep
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.d
+
+# Configurações locais do VS Code (mantém só as compartilhadas)
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
