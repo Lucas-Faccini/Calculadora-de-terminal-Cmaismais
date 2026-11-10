@@ -17,3 +17,6 @@ build/*
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
+
+ #Run o app
+ .\build\calculadora.exe
